@@ -1,2 +1,2 @@
 # simulated-annealing
-jst
+jst menentukan jarak terbaik
